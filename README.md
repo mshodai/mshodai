@@ -42,6 +42,16 @@ the design work is deciding what a model is allowed to decide, what stays
 deterministic, and how every output is logged so someone can reconstruct it two
 years later without asking anyone.
 
+### Before this
+
+Two decades founding and running companies before building systems for
+them. Hardware and software R&D, cross-border manufacturing, and several
+years on the buy side: investment analysis, due diligence, deal work.
+
+I have raised institutional capital, which means I have been the one
+audited rather than the one building for auditors. Most of what I design
+now, I once had to do by hand.
+
 ---
 
 Reference implementations on synthetic data. Notes. Tools I needed and had to

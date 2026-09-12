@@ -1,16 +1,48 @@
-## Hi there 👋
+# mshodai
 
-<!--
-**mshodai/mshodai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architecture and tooling for systems that have to answer to a supervisor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most software in regulated domains fails the same way: compliance is treated as
+a review gate at the end instead of a constraint at the start. Everything here
+assumes the opposite — traceability, evidence and explainability as structural
+decisions, made on day one, testable.
+
+### Working ground
+
+Client onboarding and due diligence · document lifecycle and lineage ·
+counterparty matching · automated financial reporting · AI governance
+
+`EU AI Act` · `ISO/IEC 42001` · `DORA` · `AMLD` · `MiFID II` · `PSD2/PSD3` · `GDPR`
+
+### Tools
+
+`Python` · `FastAPI` · `PostgreSQL` · `Odoo` · `React` · `Typst`
+LLM orchestration · structured extraction · deterministic rule engines ·
+evaluation and audit logging
+
+### Method
+
+- **Verify before asserting.** A claim about a system comes with the file and the
+  line it came from, or it is labelled a hypothesis. A comment is text about the
+  code, not the code.
+- **Adversarial validation.** Decisions go through multi-model review — thesis,
+  antitheses, synthesis — before they are locked in. Fluent agreement is a risk
+  signal, not a result.
+- **ADRs by default.** Context, decision, consequences. Written when the decision
+  is made, not reconstructed afterwards.
+- **One change, one check.** If an approach fails three times, the approach is
+  the problem.
+
+### The interesting part
+
+The probabilistic component of a system is the part you have to justify. Most of
+the design work is deciding what a model is allowed to decide, what stays
+deterministic, and how every output is logged so someone can reconstruct it two
+years later without asking anyone.
+
+---
+
+Reference implementations on synthetic data. Notes. Tools I needed and had to
+build. Nothing here comes from anyone's production.

@@ -18,7 +18,7 @@ counterparty matching · automated financial reporting · AI governance
 
 ### Tools
 
-`Python` · `FastAPI` · `PostgreSQL` · `Odoo` · `React` · `Typst`
+`Python` · `FastAPI` · `PostgreSQL` · `Node` · `Odoo` · `React` · `Typst`  
 LLM orchestration · structured extraction · deterministic rule engines ·
 evaluation and audit logging
 

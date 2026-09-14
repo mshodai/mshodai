@@ -54,5 +54,15 @@ now, I once had to do by hand.
 
 ---
 
-Reference implementations on synthetic data. Notes. Tools I needed and had to
-build. Nothing here comes from anyone's production.
+### Reference implementations
+
+[validador-cadena-verifactu](https://github.com/mshodai/validador-cadena-verifactu)
+— Verifies the integrity of invoicing record chains under Spain's Verifactu
+regime: hash per record, chaining, and the twelve points where the official
+spec does not determine a single behaviour. Written in Spanish, on synthetic
+data.
+
+---
+
+Notes. Tools I needed and had to build. Nothing here comes from anyone's
+production.

@@ -1,6 +1,6 @@
 # mshodai
 
-Architecture and tooling for systems that have to answer to a supervisor.
+Architecture and tooling for systems that have to survive an audit.
 
 ---
 

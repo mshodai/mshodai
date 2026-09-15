@@ -60,7 +60,7 @@ now, I once had to do by hand.
 — Verifies the integrity of invoicing record chains under Spain's Verifactu
 regime: hash per record, chaining, and the twelve points where the official
 spec does not determine a single behaviour. Written in Spanish, on synthetic
-data.
+data. [Why it exists](https://mshodai.github.io/validador-cadena-verifactu/)
 
 ---
 

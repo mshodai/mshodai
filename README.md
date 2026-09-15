@@ -62,6 +62,11 @@ regime: hash per record, chaining, and the twelve points where the official
 spec does not determine a single behaviour. Written in Spanish, on synthetic
 data. [Why it exists](https://mshodai.github.io/validador-cadena-verifactu/)
 
+[calculo-titularidad-real](https://github.com/mshodai/calculo-titularidad-real)
+— Calculates beneficial ownership through corporate chains under Spain's Ley
+10/2010 and under the EU AMLR, comparing both regimes. Written in Spanish, on
+synthetic data.
+
 ---
 
 Notes. Tools I needed and had to build. Nothing here comes from anyone's

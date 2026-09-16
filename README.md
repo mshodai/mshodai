@@ -65,7 +65,7 @@ data. [Why it exists](https://mshodai.github.io/validador-cadena-verifactu/)
 [calculo-titularidad-real](https://github.com/mshodai/calculo-titularidad-real)
 — Calculates beneficial ownership through corporate chains under Spain's Ley
 10/2010 and under the EU AMLR, comparing both regimes. Written in Spanish, on
-synthetic data.
+synthetic data. [Why it exists](https://mshodai.github.io/calculo-titularidad-real/)
 
 ---
 

@@ -67,6 +67,11 @@ data. [Why it exists](https://mshodai.github.io/validador-cadena-verifactu/)
 10/2010 and under the EU AMLR, comparing both regimes. Written in Spanish, on
 synthetic data. [Why it exists](https://mshodai.github.io/calculo-titularidad-real/)
 
+[plazos-conservacion-pbc](https://github.com/mshodai/plazos-conservacion-pbc)
+— Calculates the retention status of AML documentation under Spain's Ley
+10/2010 and under the EU AMLR, comparing the six possible readings. Written in
+Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/plazos-conservacion-pbc/)
+
 ---
 
 Notes. Tools I needed and had to build. Nothing here comes from anyone's

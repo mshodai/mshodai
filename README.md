@@ -72,6 +72,12 @@ synthetic data. [Why it exists](https://mshodai.github.io/calculo-titularidad-re
 10/2010 and under the EU AMLR, comparing the six possible readings. Written in
 Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/plazos-conservacion-pbc/)
 
+[plazos-actualizacion-pbc](https://github.com/mshodai/plazos-actualizacion-pbc)
+— Calculates the next mandatory review date of customer information under
+Spain's Ley 10/2010 and under the EU AMLR, comparing six readings and listing
+the decisions needed to resolve each indeterminate result. Based on AMLA's
+draft guidelines. Written in Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/plazos-actualizacion-pbc/)
+
 ---
 
 Notes. Tools I needed and had to build. Nothing here comes from anyone's

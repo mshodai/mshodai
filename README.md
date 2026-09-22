@@ -78,6 +78,12 @@ Spain's Ley 10/2010 and under the EU AMLR, comparing six readings and listing
 the decisions needed to resolve each indeterminate result. Based on AMLA's
 draft guidelines. Written in Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/plazos-actualizacion-pbc/)
 
+[registro-examen-especial-pbc](https://github.com/mshodai/registro-examen-especial-pbc)
+— Checks whether the record of an AML suspicious-activity review in which an AI
+system may have taken part is complete under Spain's Ley 10/2010 and the EU
+AMLR, and who had to decide the report under each regime. The AI system is
+treated as a black box. Written in Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/registro-examen-especial-pbc/)
+
 ---
 
 Notes. Tools I needed and had to build. Nothing here comes from anyone's

@@ -84,6 +84,12 @@ system may have taken part is complete under Spain's Ley 10/2010 and the EU
 AMLR, and who had to decide the report under each regime. The AI system is
 treated as a black box. Written in Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/registro-examen-especial-pbc/)
 
+[registro-cambio-agente-dora](https://github.com/mshodai/registro-cambio-agente-dora)
+— The first in a series on DORA, and the one that treats AI agents as actors in
+an ICT change: checks whether the record of a change an agent took part in is
+complete under DORA and Delegated Regulation (EU) 2024/1774, under the full and
+the simplified regime. Written in Spanish, on synthetic data. [Why it exists](https://mshodai.github.io/registro-cambio-agente-dora/)
+
 ---
 
 Notes. Tools I needed and had to build. Nothing here comes from anyone's
